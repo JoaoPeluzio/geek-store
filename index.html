@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AluraGeek</title>
+  <link rel="stylesheet" href="/styles.css">
+  <!--FONTS-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Press+Start+2P&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav>
+    <img src="assets/image 1.png" alt="logo de coracao">
+    <h1>Geekstore</h1>
+  </nav>
+
+  <!-- Conteúdo Principal -->
+  <div class="container">
+    <!-- Seção de Produtos -->
+    <section class="products-section">
+      <h2>MEUS PRODUTOS:</h2>
+      <div id="product-list" class="products-list">
+        <!-- Adicionar produtos aqui -->
+
+      </div>
+    </section>
+
+    <!-- Formulário de Adição de Produtos -->
+    <section class="form-section">
+      <h2>ADICIONAR PRODUTO:</h2>
+      <form id="product-form">
+        <input type="text" id="product-name" placeholder="Nome..." required>
+        <input type="number" id="product-price" step="0.01" placeholder="Preço..." required>
+        <input type="url" id="product-image" placeholder="URL da imagem..." required>
+        <div class="flex-button">
+          <button type="submit">Guardar</button>
+          <button type="button" id="clear-form">Limpar</button>
+      </div>
+      </form>
+    </section>
+  </div>
+
+  <footer>
+    <img src="assets/image 1.png" alt="logo de coracao">
+    <p>DESENVOLVIDO POR JOÃO VICTOR PELUZIO</p>
+    <p>ALURA LATAM - 2024</p>
+  </footer>
+  <script src="./js/main.js" type="module"></script>
+</body>
+</html>

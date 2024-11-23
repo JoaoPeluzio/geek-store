@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "6625",
+      "nome": "Caneca Star Wars",
+      "preco": 23.98,
+      "imagem": "https://m.media-amazon.com/images/I/41MIxdiEcDL._AC_SX450_.jpg"
+    },
+    {
+      "id": "69ba",
+      "nome": "Caneta Marvel Preta",
+      "preco": 79.99,
+      "imagem": "https://images.tcdn.com.br/img/img_prod/1220230/caneta_metalica_marvel_1_0mm_ed_limitada_molin_2035_1_645961abd6f2d04e9d4e1b91b8f357d9.jpg"
+    },
+    {
+      "id": "9f2c",
+      "nome": "Camiseta Geek Bazinga",
+      "preco": 78.98,
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7l9QUaIpVzV8LikJzaC6kp8n646xW9lpEc8IAmm8ts1lpOW0Tv-BL48BKJzVP_orjFDYbH1z7he5Pf-SPe24piVltdCOIjcYQpiOtgxF06Y-o12OhT1QA8A&usqp=CAE"
+    },
+    {
+      "id": "17cd",
+      "nome": "Guarda-Chuva Spider-Man ",
+      "preco": 64.98,
+      "imagem": "https://imgs.casasbahia.com.br/1565826129/1xg.jpg"
+    }
+  ]
+}
