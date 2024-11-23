@@ -9,6 +9,7 @@ O projeto é um estudo de JavaScript para implementação de APIs utilizando o j
 
 ## Utilização
 
+- Clone o repositorio pelo terminal: `git clone https://github.com/JoaoPeluzio/geek-store` para seu computador.
 - rode o comando `json-server --watch db.json` no terminal para rodar o json-server e visualizar os arquivos contidos no banco de dados simulados em formato json. 
 
 ## 🚀 Tecnologias
